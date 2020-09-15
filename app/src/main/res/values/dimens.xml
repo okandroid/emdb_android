@@ -1,0 +1,97 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="movie_poster_max_size">480dp</dimen>
+    <dimen name="movie_item_list_size">200dp</dimen>
+    <dimen name="recommended_movie_item_list_height">380dp</dimen>
+    <dimen name="recommended_movie_item_list_width">240dp</dimen>
+
+    <dimen name="dp0">0dp</dimen>
+    <dimen name="dp1">1dp</dimen>
+    <dimen name="dp2">2dp</dimen>
+    <dimen name="dp3">3dp</dimen>
+    <dimen name="dp4">4dp</dimen>
+    <dimen name="dp5">5dp</dimen>
+    <dimen name="dp6">6dp</dimen>
+    <dimen name="dp8">8dp</dimen>
+    <dimen name="dp10">10dp</dimen>
+    <dimen name="dp12">12dp</dimen>
+    <dimen name="dp14">14dp</dimen>
+    <dimen name="dp16">16dp</dimen>
+    <dimen name="dp18">18dp</dimen>
+    <dimen name="dp20">20dp</dimen>
+    <dimen name="dp22">22dp</dimen>
+    <dimen name="dp24">24dp</dimen>
+    <dimen name="dp25">25dp</dimen>
+    <dimen name="dp28">28dp</dimen>
+    <dimen name="dp30">30dp</dimen>
+    <dimen name="dp32">32dp</dimen>
+    <dimen name="dp36">36dp</dimen>
+    <dimen name="dp40">40dp</dimen>
+    <dimen name="dp42">42dp</dimen>
+    <dimen name="dp44">44dp</dimen>
+    <dimen name="dp46">46dp</dimen>
+    <dimen name="dp48">48dp</dimen>
+    <dimen name="dp58">58dp</dimen>
+    <dimen name="dp56">56dp</dimen>
+    <dimen name="dp52">52dp</dimen>
+    <dimen name="dp60">60dp</dimen>
+    <dimen name="dp64">64dp</dimen>
+    <dimen name="dp68">68dp</dimen>
+    <dimen name="dp72">72dp</dimen>
+    <dimen name="dp76">76dp</dimen>
+    <dimen name="dp80">80dp</dimen>
+    <dimen name="dp82">82dp</dimen>
+    <dimen name="dp84">84dp</dimen>
+    <dimen name="dp88">88dp</dimen>
+    <dimen name="dp96">96dp</dimen>
+
+    <!-- text sizes in sp -->
+    <dimen name="sp64">64sp</dimen>
+    <dimen name="sp48">48sp</dimen>
+    <dimen name="sp44">44sp</dimen>
+    <dimen name="sp40">40sp</dimen>
+    <dimen name="sp38">38sp</dimen>
+    <dimen name="sp36">36sp</dimen>
+    <dimen name="sp32">32sp</dimen>
+    <dimen name="sp28">28sp</dimen>
+    <dimen name="sp24">24sp</dimen>
+    <dimen name="sp22">22sp</dimen>
+    <dimen name="sp20">20sp</dimen>
+    <dimen name="sp18">18sp</dimen>
+    <dimen name="sp16">16sp</dimen>
+    <dimen name="sp14">14sp</dimen>
+    <dimen name="sp12">12sp</dimen>
+    <dimen name="sp10">10sp</dimen>
+
+    <dimen name="material_text_button">14sp</dimen>
+    <dimen name="material_text_menu">14sp</dimen>
+    <dimen name="material_text_caption">12sp</dimen>
+    <dimen name="material_text_body1">14sp</dimen>
+    <dimen name="material_text_body2">13sp</dimen>
+    <dimen name="material_text_subhead">16sp</dimen>
+    <dimen name="material_text_title">20sp</dimen>
+    <dimen name="material_text_headline">24sp</dimen>
+    <dimen name="material_text_display1">34sp</dimen>
+    <dimen name="material_text_display2">45sp</dimen>
+    <dimen name="material_text_display3">56sp</dimen>
+    <dimen name="material_text_display4">112sp</dimen>
+
+    <dimen name="fab_size">56dp</dimen>
+    <dimen name="fab_radius">28dp</dimen> <!-- half the width, creating a circle -->
+    <dimen name="fab_padding">8dp</dimen>
+    <dimen name="fab_offset">8dp</dimen>
+
+    <dimen name="fab_icon_size">24dp</dimen>
+    <dimen name="fab_icon_margin">16dp</dimen>
+
+    <dimen name="speed_dial_disc_size">40dp</dimen>
+    <dimen name="speed_dial_disc_radius">20dp</dimen> <!-- half the width, creating a circle -->
+    <dimen name="speed_dial_disc_padding">8dp</dimen>
+    <dimen name="speed_dial_disc_offset">8dp</dimen>
+
+    <dimen name="speed_dial_disc_icon_size">24dp</dimen>
+    <dimen name="speed_dial_disc_icon_margin">8dp</dimen>
+
+</resources>

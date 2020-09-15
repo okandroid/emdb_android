@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">EmdB</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="merge_image_url">https://image.tmdb.org/t/p/w500%s</string>
+    <string name="title_with_parentheses">(%s)</string>
+    <string name="total_votes">/ %d votes</string>
+
+    <string name="txt_overview">Overview</string>
+    <string name="txt_genres">Genres</string>
+    <string name="txt_limited_action">You must login for using this action.</string>
+    <string name="txt_empty_view_movies">Oops!! \nUnfortunately there is no movies to show right now. </string>
+    <string name="txt_empty_view_recommended_movies">There is no recommended movies.</string>
+    <string name="txt_sort_by_popularity">Sort By Popularity</string>
+    <string name="txt_sort_dialog_title">Sort Movies</string>
+    <string name="txt_sort_by_rating">Sort By Rating</string>
+    <string name="txt_similar_films">Recommended Films</string>
+    <string name="txt_release_date">Release Date: %s</string>
+    <string name="txt_loremipsum">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </string>
+</resources>
